@@ -15,4 +15,5 @@ https://vezdehodnik.ru
 Также занимался парсингом на Python + Selenium.
 В пет проектах имеется, сайт-квиз , несколько лендингов, анимированная фотогалерея и адаптивный слайдер для 3d конструктора
 
-[Static Badge](https://img.shields.io/badge/8.1.0-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/8.1.0-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
+
