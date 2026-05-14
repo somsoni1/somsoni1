@@ -1,4 +1,4 @@
-## Я программист Frontend так и Backend
+## Программист Frontend так и Backend
 Разработал с нуля собственную тему для интернет магазина на базе cms wordpress + woocommerce.
 На данный момент проект уже запущен:
 https://vezdehodnik.ru
