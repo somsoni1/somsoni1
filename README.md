@@ -16,6 +16,25 @@ https://vezdehodnik.ru
 Использую самописные модули на js: анимированная фотогалерея, адаптивный слайдер для 3d конструктора  
 Есть базовые знания Python т.к. занимался парсингом используя Selenium.
 
+Навыки и технологии:
+Владение языками программирования: 
+1.	C
+2.	Python
+3.	PHP
+4.	JavaScript.
+Технологии:
+1.	Requests
+2.	PyQt6
+3.	Selenium
+4.	SQL / MySQL / PostgreSQL
+5.	Redis (cache)
+6.	Canvas
+Верстка:
+1.	БЭМ
+2.	Sass
+3.	Gulp / Vite
+
+
 ![Static Badge](https://img.shields.io/badge/8.1.0-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/es6-%23000?style=for-the-badge&logo=javascript&logoSize=auto) ![Static Badge](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoSize=auto) ![Static Badge](https://img.shields.io/badge/3.12.3-%23f3f3f3?style=for-the-badge&logo=python&logoSize=auto) ![Static Badge](https://img.shields.io/badge/mysql-%23f3f3f3?style=for-the-badge&logo=mysql&logoSize=auto) ![Static Badge](https://img.shields.io/badge/gulp-%23CF4647?style=for-the-badge&logo=gulp&logoSize=auto&color=white)
 
 
