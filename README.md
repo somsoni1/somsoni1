@@ -22,6 +22,8 @@ https://vezdehodnik.ru
 2.	Python
 3.	PHP
 4.	JavaScript.
+
+
 Технологии:
 1.	Requests
 2.	PyQt6
@@ -29,6 +31,7 @@ https://vezdehodnik.ru
 4.	SQL / MySQL / PostgreSQL
 5.	Redis (cache)
 6.	Canvas
+
 Верстка:
 1.	БЭМ
 2.	Sass
